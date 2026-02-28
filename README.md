@@ -1,6 +1,3 @@
-# Data_Analysis_and_Data_Visualization_of_Sleeping_patterns_and_mood_using_python
-Sleep &amp; Mood Analysis project using Exploratory Data Analysis (EDA) and correlation techniques to examine how sleep duration, screen exposure, and bedtime habits impact sleep quality, mood, and overall sleep hygiene.
-
 # 💤 Sleep Patterns & Mood Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -68,25 +65,37 @@ Created derived features to quantify sleep behavior:
 
 ---
 
-## 📊 Exploratory Data Analysis
+# 📊 Data Visualizations
 
-### 🔹 Univariate Analysis
-- Sleep duration distribution
-- Bedtime pattern distribution
-- Screen exposure distribution
-- Mood rating distribution
+## 1️⃣ Sleep Duration Distribution
 
-### 🔹 Bivariate Analysis
-- Sleep Duration vs Mood Rating
-- Sleep Duration vs Sleep Quality
-- Screen Exposure vs Sleep Quality
-- Bedtime Category vs Mood Rating
+![Sleep Duration Distribution](visualizations/sleep_duration_distribution.png)
 
-### 🔹 Multivariate Analysis
-- Pearson Correlation Matrix
-- Correlation Heatmap
-- Feature Influence on Poor Sleep Hygiene
-- Behavioral interaction analysis
+**Insight:** Majority of respondents sleep 6–8 hours, indicating generally healthy sleep patterns.
+
+---
+
+## 2️⃣ Sleep Duration vs Mood Rating
+
+![Sleep vs Mood](visualizations/sleep_vs_mood.png)
+
+**Insight:** Longer sleep duration is positively associated with higher mood ratings.
+
+---
+
+## 3️⃣ Correlation Heatmap
+
+![Correlation Heatmap](visualizations/correlation_heatmap.png)
+
+**Insight:** Strong positive correlation between Sleep Hours and Sleep Quality Score. Moderate positive relationship between Sleep Hours and Mood Rating.
+
+---
+
+## 4️⃣ Feature Influence on Poor Sleep Hygiene
+
+![Feature Influence](visualizations/feature_influence.png)
+
+**Insight:** Insufficient Sleep and Difficulty Falling Asleep are strongest contributors to Poor Sleep Hygiene.
 
 ---
 
