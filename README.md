@@ -110,6 +110,21 @@ Created derived features to quantify sleep behavior:
 
 ---
 
-## 📊 Sample Visualizations
+## 🚀 Project Outcome
 
-> (Place your generated images inside the `visualizations/` folder)
+This project demonstrates:
+
+✔ Data Cleaning & Feature Engineering  
+✔ Exploratory Data Analysis  
+✔ Multivariate Correlation Analysis  
+✔ Professional Data Visualization  
+✔ Insight-driven Reporting  
+
+The findings reinforce that adequate sleep duration, reduced screen exposure, and consistent bedtime habits significantly improve sleep quality and emotional well-being.
+
+---
+
+## 👩‍💻 Author
+
+**Nisha Rai**  
+Aspiring Data Analyst | Data Analytics Enthusiast  
