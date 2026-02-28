@@ -73,7 +73,7 @@ Created derived features to quantify sleep behavior:
 
 **Insight:** Majority of respondents sleep 6–8 hours, indicating generally healthy sleep patterns.
 
----
+
 
 ## 2️⃣ Sleep Duration vs Mood Rating
 
@@ -81,7 +81,7 @@ Created derived features to quantify sleep behavior:
 
 **Insight:** Longer sleep duration is positively associated with higher mood ratings.
 
----
+
 
 ## 3️⃣ Correlation Heatmap
 
@@ -89,7 +89,7 @@ Created derived features to quantify sleep behavior:
 
 **Insight:** Strong positive correlation between Sleep Hours and Sleep Quality Score. Moderate positive relationship between Sleep Hours and Mood Rating.
 
----
+
 
 ## 4️⃣ Feature Influence on Poor Sleep Hygiene
 
